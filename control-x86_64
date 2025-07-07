@@ -1,0 +1,6 @@
+Package: nxiso
+Version: 1.0
+Maintainer: Alex Free
+Architecture: amd64
+Homepage: https://github.com/alex-free/extract-xiso
+Description: Create, modify, and extract Xbox/Xbox 360 XISOs.
